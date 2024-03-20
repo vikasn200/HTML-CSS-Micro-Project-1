@@ -69,7 +69,8 @@ font-weight:500;
 .left button{
     margin-left: 10px;
     border-radius: 8px;
-    padding: 14px 40px;
+    border: none;
+    padding: 15px 40px;
     background-color:  #282828;
     color: #FFFFFF;
     font-weight: 600;
